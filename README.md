@@ -1,6 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on designs for Muzology
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me: @webdevike
-- ⚡ Fun fact: I can beat box
+![Metrics](https://metrics.lecoq.io/ikey2244?template=classic&pagespeed=1&languages=1&stars=1&isocalendar=1&isocalendar.duration=undefined&languages.colors=github&pagespeed.url=www.webdevike.com&pagespeed.detailed=true&pagespeed.screenshot=false&stars.limit=4&config.timezone=America%2FChicago&config.animated=true)
